@@ -13,7 +13,7 @@ const state = {
         new Todo ('Hacer 20 min de ejercicio o estiramientos.'),
         new Todo ('Leer un capítulo de un libro o un artículo'),
         new Todo ('Limpiar el área de trabajo o una habitación'),
-        new Todo ('Realizar 10 minutos de relajación o meditación'),
+        new Todo ('Realizar 10 min de relajación o meditación'),
     ],
     filter: Filters.All,
 }
