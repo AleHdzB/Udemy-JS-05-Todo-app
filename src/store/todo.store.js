@@ -9,11 +9,11 @@ export const Filters = {
 
 const state = {
     todos: [
-        new Todo ('Piedra del alma'),
-        new Todo ('Piedra del espacio'),
-        new Todo ('Piedra del tiempo'),
-        new Todo ('Piedra del poder'),
-        new Todo ('Piedra de la realidad'),
+        new Todo ('Revisar y responder correos electrónicos.'),
+        new Todo ('Hacer 20 min de ejercicio o estiramientos.'),
+        new Todo ('Leer un capítulo de un libro o un artículo'),
+        new Todo ('Limpiar el área de trabajo o una habitación'),
+        new Todo ('Realizar 10 minutos de relajación o meditación'),
     ],
     filter: Filters.All,
 }
