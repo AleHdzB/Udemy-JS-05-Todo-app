@@ -61,9 +61,6 @@ To run the project locally, follow these steps:
    Navigate to `http://localhost:5173` in your web browser.
 
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
