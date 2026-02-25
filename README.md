@@ -1,5 +1,5 @@
 # 📆 Todo List 📙✍🏽
-
+![TODO Demo](./screenshots/todo-demo.gif)
 A simple Todo List application built with modern web development tools, designed to help users manage their tasks efficiently.
 
 ## Live Demo
